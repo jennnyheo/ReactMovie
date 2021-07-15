@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jennnyheo/ReactMovie.git/static/css/main.a2d1f912.chunk.css",
-    "main.js": "/jennnyheo/ReactMovie.git/static/js/main.3fca32a2.chunk.js",
-    "main.js.map": "/jennnyheo/ReactMovie.git/static/js/main.3fca32a2.chunk.js.map",
-    "runtime-main.js": "/jennnyheo/ReactMovie.git/static/js/runtime-main.7939120a.js",
-    "runtime-main.js.map": "/jennnyheo/ReactMovie.git/static/js/runtime-main.7939120a.js.map",
-    "static/js/2.2f46ab43.chunk.js": "/jennnyheo/ReactMovie.git/static/js/2.2f46ab43.chunk.js",
-    "static/js/2.2f46ab43.chunk.js.map": "/jennnyheo/ReactMovie.git/static/js/2.2f46ab43.chunk.js.map",
-    "index.html": "/jennnyheo/ReactMovie.git/index.html",
-    "static/css/main.a2d1f912.chunk.css.map": "/jennnyheo/ReactMovie.git/static/css/main.a2d1f912.chunk.css.map",
-    "static/js/2.2f46ab43.chunk.js.LICENSE.txt": "/jennnyheo/ReactMovie.git/static/js/2.2f46ab43.chunk.js.LICENSE.txt"
+    "main.css": "/ReactMovie/static/css/main.a2d1f912.chunk.css",
+    "main.js": "/ReactMovie/static/js/main.3fca32a2.chunk.js",
+    "main.js.map": "/ReactMovie/static/js/main.3fca32a2.chunk.js.map",
+    "runtime-main.js": "/ReactMovie/static/js/runtime-main.1c6d837a.js",
+    "runtime-main.js.map": "/ReactMovie/static/js/runtime-main.1c6d837a.js.map",
+    "static/js/2.2f46ab43.chunk.js": "/ReactMovie/static/js/2.2f46ab43.chunk.js",
+    "static/js/2.2f46ab43.chunk.js.map": "/ReactMovie/static/js/2.2f46ab43.chunk.js.map",
+    "index.html": "/ReactMovie/index.html",
+    "static/css/main.a2d1f912.chunk.css.map": "/ReactMovie/static/css/main.a2d1f912.chunk.css.map",
+    "static/js/2.2f46ab43.chunk.js.LICENSE.txt": "/ReactMovie/static/js/2.2f46ab43.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7939120a.js",
+    "static/js/runtime-main.1c6d837a.js",
     "static/js/2.2f46ab43.chunk.js",
     "static/css/main.a2d1f912.chunk.css",
     "static/js/main.3fca32a2.chunk.js"
