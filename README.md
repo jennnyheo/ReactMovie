@@ -1,11 +1,10 @@
 
 ## Movie APP
 
-This is simple movie app to learn React.js
-
-
-
-for the Result?
+ - This is simple movie app to learn React.js
+-  fetch data with axios in Reat.js
+-  add "read more"
+-  add some hover animation
 
 Check the link below.😊
  
